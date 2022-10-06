@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.con{
+    border-radius: 30px;
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+    background: linear-gradient(#2196F3, #FFC107);
+    box-shadow: 0PX 1PX 10PX 5PX rgb(87, 87, 87);    
+}
+.con2{
+    margin-top: 50px;
+}
+.con3{
+    margin-top: 20px;
+}
+
+.btn{
+    margin-top: 50px;
+    height: 50px;
+    width: 100px;
+}
+input{
+    text-align: center;
+}
